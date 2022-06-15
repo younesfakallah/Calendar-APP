@@ -1,0 +1,13 @@
+table.table thead {
+  border: 1px solid grey;
+}
+
+table.table tbody tr td {
+  border: 1px solid grey;
+  height: 15vh;
+}
+
+table.table thead tr th {
+    background-color: grey;
+    color: #ffff;
+}
